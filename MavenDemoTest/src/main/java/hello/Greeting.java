@@ -6,6 +6,7 @@ public class Greeting {
     private final String content;
 
     public Greeting(long id, String content) {
+    	// Testcomment
         this.id = id;
         this.content = content;
     }
